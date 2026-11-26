@@ -1,0 +1,1 @@
+CREATE INDEX `idx_yarn_projects_created_at` ON `yarn_projects` (`created_at`);
